@@ -2,4 +2,4 @@
 
 This site is deployed with Ansible.
 
-Click [>here<](openshift-ireland.com) to get to the site.
+Click [>here<](https://openshift-ireland.com) to get to the site.
